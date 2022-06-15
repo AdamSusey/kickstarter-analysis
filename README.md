@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-### Performing data analysis on several thousand crowdfunding projects to uncover hiddne trends.
+### Performing data analysis on several thousand crowdfunding projects to uncover hidden trends.
 
 ![Line Graph](https://github.com/AdamSusey/kickstarter-analysis/blob/main/Line%20Graph.png)
 
